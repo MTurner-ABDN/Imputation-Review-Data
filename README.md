@@ -1,5 +1,5 @@
 # Imputation-Review-Data
-This repository contains an excel file pertaining to the data used within the study: 'Methods for imputing trait and community data in ecological and evolutionary research'.
+This repository contains excel file 'Data.xlsx', which contains to the data used within the study: 'Methods for imputing trait and community data in ecological and evolutionary research'.
 
 ### Sheets Included
 Full Data: A comprehensive list of all studies found within the review and kept after inclusion/exclusion criteria were applied.
